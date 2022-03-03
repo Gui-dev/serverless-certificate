@@ -11,8 +11,8 @@
     "@middy/core": "^2.5.3",
     "@middy/http-json-body-parser": "^2.5.3",
     "aws-sdk": "^2.1084.0",
-    "handlebars": "^4.7.7",
-    "puppeteer-core": "^13.4.1"
+    "chrome-aws-lambda": "^10.1.0",
+    "handlebars": "^4.7.7"
   },
   "devDependencies": {
     "@serverless/typescript": "^3.0.0",
