@@ -12,6 +12,7 @@
     "@middy/http-json-body-parser": "^2.5.3",
     "aws-sdk": "^2.1084.0",
     "chrome-aws-lambda": "^10.1.0",
+    "dayjs": "^1.10.8",
     "handlebars": "^4.7.7"
   },
   "devDependencies": {
