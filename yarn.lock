@@ -4111,6 +4111,24 @@ puppeteer-core@^13.4.1:
     unbzip2-stream "1.4.3"
     ws "8.5.0"
 
+puppeteer@^13.4.1:
+  version "13.4.1"
+  resolved "https://registry.yarnpkg.com/puppeteer/-/puppeteer-13.4.1.tgz#495b91d2fae3e9761a31bab1820ad179caac0fd9"
+  integrity sha512-2arcYPEGvLV9HvOw01Zv1b1IAXrMWHqsFJn0Hn00qe9HtCmaF0b8FlrbdLjCIbkaFc6icH5+GqcG8R5KxlJSRg==
+  dependencies:
+    cross-fetch "3.1.5"
+    debug "4.3.3"
+    devtools-protocol "0.0.960912"
+    extract-zip "2.0.1"
+    https-proxy-agent "5.0.0"
+    pkg-dir "4.2.0"
+    progress "2.0.3"
+    proxy-from-env "1.1.0"
+    rimraf "3.0.2"
+    tar-fs "2.1.1"
+    unbzip2-stream "1.4.3"
+    ws "8.5.0"
+
 qs@^6.5.1:
   version "6.10.3"
   resolved "https://registry.yarnpkg.com/qs/-/qs-6.10.3.tgz#d6cde1b2ffca87b5aa57889816c5f81535e22e8e"
