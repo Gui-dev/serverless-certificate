@@ -35,7 +35,7 @@ resources:
   Resources:
     dbCertificateUsers:
       Type: AWS::DynamoDB::Table
-      Properties:      
+      Properties:
         TableName: users_certificates
         ProvisionedThroughput:
           ReadCapacityUnits: 5
