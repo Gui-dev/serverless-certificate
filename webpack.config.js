@@ -58,8 +58,8 @@ module.exports = {
     new CopyWebpackPlugin({
       patterns: [
         {
-          from: './src/functions',
-          to: path.join(__dirname, ".webpack/service/src/functions")
+          from: './src/templates',
+          to: path.join(__dirname, ".webpack/service/src/templates")
         },
       ],
     }),
